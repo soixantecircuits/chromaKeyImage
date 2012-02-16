@@ -1,0 +1,2 @@
+cd openFrameworks/apps/soixante;
+git clone git@github.com:soixantecircuits/chromaKeyImage.git
